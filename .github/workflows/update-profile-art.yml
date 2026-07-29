@@ -32,6 +32,7 @@ jobs:
       - name: Fetch Contributions
         env:
           GH_PROFILE_USER: Omerabdurrehman
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python scripts/fetch_contributions.py
 
       - name: Render Heatmap SVG
