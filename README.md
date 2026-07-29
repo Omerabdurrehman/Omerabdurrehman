@@ -1,5 +1,6 @@
 <div align="center">
 
+  
 # <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Omer+Abdur+Rehman;Computer+Systems+Engineer;Machine+Learning+%7C+AI+Developer;Python+%7C+Flutter+%7C+FastAPI" />
 
 <img src="./omer-wordmark-rock.svg" width="820"/>
@@ -22,7 +23,7 @@
 </td>
 
 <td valign="top">
-<img src="./info-card.svg" width="490"/>
+<img src="./info-card.svg" width="550"/>
 </td>
 
 </tr>
