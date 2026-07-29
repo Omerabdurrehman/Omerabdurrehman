@@ -1,0 +1,411 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+width="490"
+height="390"
+viewBox="0 0 490 390"
+font-family="Consolas, 'Courier New', monospace">
+
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#111722"/>
+<stop offset="100%" stop-color="#0d1117"/>
+</linearGradient>
+</defs>
+
+<rect width="490" height="390" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="489" height="389" rx="12"
+fill="none" stroke="#30363d"/>
+
+<text
+x="20"
+y="22"
+fill="#7d8590"
+font-size="12">Windows Terminal</text>
+
+<text
+x="410"
+y="22"
+fill="#7d8590"
+font-size="12">— □ ✕</text>
+
+<line
+x1="0"
+y1="32"
+x2="490"
+y2="32"
+stroke="#30363d"/>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.00s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="0.00s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="58"
+fill="#58a6ff"
+font-size="14">Name        </text>
+
+<text
+x="150"
+y="58"
+fill="#c9d1d9"
+font-size="14">Omer Abdur Rehman</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.15s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="0.15s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="82"
+fill="#58a6ff"
+font-size="14">Role        </text>
+
+<text
+x="150"
+y="82"
+fill="#c9d1d9"
+font-size="14">Computer Systems Engineer</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.30s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="0.30s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="106"
+fill="#58a6ff"
+font-size="14">Focus       </text>
+
+<text
+x="150"
+y="106"
+fill="#c9d1d9"
+font-size="14">Machine Learning • AI • Data Analytics</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.45s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="0.45s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="130"
+fill="#58a6ff"
+font-size="14">Location    </text>
+
+<text
+x="150"
+y="130"
+fill="#c9d1d9"
+font-size="14">Punjab, Pakistan</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.60s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="0.60s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="154"
+fill="#58a6ff"
+font-size="14">Education   </text>
+
+<text
+x="150"
+y="154"
+fill="#c9d1d9"
+font-size="14">The Islamia University of Bahawalpur
+BSc Computer Systems Engineering</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.75s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="0.75s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="178"
+fill="#58a6ff"
+font-size="14">Current     </text>
+
+<text
+x="150"
+y="178"
+fill="#c9d1d9"
+font-size="14">AI / ML Engineer</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.90s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="0.90s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="202"
+fill="#58a6ff"
+font-size="14">Languages   </text>
+
+<text
+x="150"
+y="202"
+fill="#c9d1d9"
+font-size="14">Python • C++ • Dart</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.05s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="1.05s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="226"
+fill="#58a6ff"
+font-size="14">Frameworks  </text>
+
+<text
+x="150"
+y="226"
+fill="#c9d1d9"
+font-size="14">Flutter • FastAPI • Django</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.20s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="1.20s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="250"
+fill="#58a6ff"
+font-size="14">Database    </text>
+
+<text
+x="150"
+y="250"
+fill="#c9d1d9"
+font-size="14">Firebase • MongoDB • SQL</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.35s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="1.35s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="274"
+fill="#58a6ff"
+font-size="14">Tools       </text>
+
+<text
+x="150"
+y="274"
+fill="#c9d1d9"
+font-size="14">Git • VS Code • Android Studio
+Jupyter Notebook • Tinkercad</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.50s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="1.50s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="298"
+fill="#58a6ff"
+font-size="14">Research    </text>
+
+<text
+x="150"
+y="298"
+fill="#c9d1d9"
+font-size="14">AI Prediction Models</text>
+</g>
+
+<g opacity="0">
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="1.65s"
+dur="0.35s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 8"
+to="0 0"
+begin="1.65s"
+dur="0.35s"
+fill="freeze"/>
+
+<text
+x="22"
+y="322"
+fill="#58a6ff"
+font-size="14">Interests   </text>
+
+<text
+x="150"
+y="322"
+fill="#c9d1d9"
+font-size="14">Deep Learning • NLP</text>
+</g>
+</svg>
